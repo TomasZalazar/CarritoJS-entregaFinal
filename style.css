@@ -153,7 +153,7 @@ main {
     display: flex;
     justify-content: space-between;
     align-items: center;
-    background-color: var(--clr-gray);
+    
     color: var(--clr-main);
     padding: 0.5rem;
     padding-right: 1.5rem;
@@ -161,7 +161,7 @@ main {
 }
 
 .carrito-producto-imagen {
-    width: 4rem;
+    
     border-radius: 1rem;
 }
 
@@ -183,10 +183,10 @@ main {
 
 .carrito-acciones-vaciar {
     border: 0;
-    background-color: var(--clr-gray);
+    background-color: #007bff;
     padding: 1rem;
     border-radius: 1rem;
-    color: var(--clr-main);
+    color: #ffffff;
     text-transform: uppercase;
     cursor: pointer;
 }
@@ -197,9 +197,9 @@ main {
 
 .carrito-acciones-total {
     display: flex;
-    background-color: var(--clr-gray);
+    background-color: #007bff;
     padding: 1rem;
-    color: var(--clr-main);
+    color: var(--clr-white);
     text-transform: uppercase;
     border-top-left-radius: 1rem;
     border-bottom-left-radius: 1rem;
