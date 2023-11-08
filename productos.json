@@ -1,0 +1,82 @@
+[
+    {
+        "id": "iphone 15",
+        "titulo": "Apple iphone 15 pro max 256GB",
+        "imagen": "./img/celulares editados/Apple-iphone-15-proMax256GB.webp",
+        "categoria": {
+            "nombre": "Celulares",
+            "id": "celulares"
+        },
+        "precio": 3000
+    },
+    {
+        "id": "iphone 14",
+        "titulo": "Apple iphone 14 256GB",
+        "imagen": "./img/celulares editados/Apple-iphone-14-256GB.webp",
+        "categoria": {
+            "nombre": "Celulares",
+            "id": "celulares"
+        },
+        "precio": 1000
+    },
+    {
+        "id": "iphone 13",
+        "titulo": "Apple iphone 13 128GB",
+        "imagen": "./img/celulares editados/Apple-iphone-13-128GB.webp",
+        "categoria": {
+            "nombre": "Celulares",
+            "id": "celulares"
+        },
+        "precio": 800
+    },
+    {
+        "id": "iphone 12",
+        "titulo": "Apple iphone 12 128GB",
+        "imagen": "./img/celulares editados/Apple-iphone-12-128GB.webp",
+        "categoria": {
+            "nombre": "Celulares",
+            "id": "celulares"
+        },
+        "precio": 600
+    },
+    {
+        "id": "auriculares inalambricos",
+        "titulo": "Apple auriculares inalambricos",
+        "imagen": "./img/auriculares/auriculares-inalambricos.webp",
+        "categoria": {
+            "nombre": "Auriculares",
+            "id": "auriculares"
+        },
+        "precio": 300
+    },
+    {
+        "id": "auriculares",
+        "titulo": "Apple iphone auriculares",
+        "imagen": "./img/auriculares/auricules-iphone.webp",
+        "categoria": {
+            "nombre": "Auriculares",
+            "id": "auriculares"
+        },
+        "precio": 150
+    },
+    {
+        "id": "cargador pared",
+        "titulo": "Apple cargador PD power 20w",
+        "imagen": "./img/cargadores/Cargador-de-pared-PD-Power-20W.webp",
+        "categoria": {
+            "nombre": "Cargadores",
+            "id": "cargadores"
+        },
+        "precio": 500
+    },
+    {
+        "id": "cargador wirless",
+        "titulo": "Apple MagSafe 15w wirless",
+        "imagen": "./img/cargadores/MagSafe-15W-wireless-fast-charger.webp",
+        "categoria": {
+            "nombre": "Cargadores",
+            "id": "cargadores"
+        },
+        "precio": 700
+    }
+]

@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Carrito de Compras</title>
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/css/bootstrap.min.css" rel="stylesheet">
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <div class="container-fluid">
+        <nav class="navbar navbar-expand-lg bg-nav">
+            <div class="container-fluid">
+                <a class="text-colors" href="./index.html">Applex</a>
+                <button class="navbar-toggler button-color" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+                <span class="navbar-toggler-icon"></span>
+                </button>
+                <div class="collapse navbar-collapse justify-content-end mx-4" id="navbarSupportedContent">
+                <ul class="navbar-nav ms-auto mb-2 mb-lg-0">
+                    <li class="nav-item text-colors"><a class="nav-link boton-volver" href="./index.html"><i class="bi bi-cart"></i> Seguir Comprando</a></li>
+                    <li class="nav-item text-colors"><a class="nav-link" href="./carrito.html"><i class="bi bi-cart"></i> Carrito</a></li>
+                </ul>
+            </div>
+        </nav>
+        <main>
+            <h2 class="titulo-principal text-center">Carrito de Compras</h2>
+            <div class="contenedor-carrito">
+                <p id="carrito-vacio" class="carrito-vacio">Tu carrito está vacío</p>
+                <div id="carrito-productos" class="carrito-productos disabled">
+                    <!-- Producto 1 -->
+                </div>
+                <div id="carrito-acciones" class="carrito-acciones disabled">
+                    <div class="carrito-acciones-izquierda">
+                        <button class="carrito-acciones-vaciar">Vaciar Carrito</button>
+                    </div>
+                    <div class="carrito-acciones-derecha">
+                        <div class="carrito-acciones-total">
+                            <p>Total</p>
+                            <p id="total">$200</p>
+                        </div>
+                        <button class="carrito-acciones-comprar">Comprar Ahora</button>
+                    </div>
+                </div>
+                <p class="carrito-comprado disabled" id="carrito-comprado">Muchas gracias por tu compra 😎</p>
+            </div>
+        </main>
+    </div>
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/js/bootstrap.bundle.min.js"></script>
+    <script src="carrito.js"></script>
+</body>
+</html>
