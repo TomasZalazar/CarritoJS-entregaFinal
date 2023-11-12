@@ -74,9 +74,9 @@ function agregarAlCarrito(e) {
         text: "Producto agregado al carrito",
         duration: 3000,
         close: true,
-        gravity: "bottom", // `top` or `bottom`
-        position: "right", // `left`, `center` or `right`
-        stopOnFocus: true, // Prevents dismissing of toast on hover
+        gravity: "bottom",
+        position: "right", 
+        stopOnFocus: true, 
         style: {
         background: gradient,
         borderRadius: "1rem",
@@ -84,12 +84,12 @@ function agregarAlCarrito(e) {
         fontSize: "1rem"
         },
         offset: {
-            x: '5rem', // horizontal axis - can be a number or a string indicating unity. eg: '2em'
-            y: '8rem' // vertical axis - can be a number or a string indicating unity. eg: '2em'
+            x: '5rem', 
+            y: '8rem' 
         },
         onClick: function(){
             window.location.href = "./carrito.html";
-        } // Callback after click
+        } 
     }).showToast();
 
     const idBoton = e.currentTarget.id;
