@@ -140,7 +140,11 @@ main {
 .carrito-vacio,
 .carrito-comprado {
     color: var(--clr-main);
-    font-size: 2em;
+    font-size: 3em;
+    display: flex;
+    justify-content: space-around;
+    margin-top: 10%;
+    width: 100%;
 }
 
 .carrito-productos {
@@ -309,6 +313,28 @@ main {
 
     /* Agrega estilos específicos para pantallas más pequeñas si es necesario */
 }
+/* Estilos de verificar datos */
+#verificacionDatos {
+    text-align: left;
+    max-width: 82%;
+}
+
+.swal2-popup .swal2-content {
+    display: flex;
+    flex-direction: column;
+    text-align: left;
+}
+
+.swal2-input {
+    margin-bottom: 10px;
+}
+
+.swal2-input,
+.swal2-textarea {
+    width: 100%;
+}
+
+
 
 /* Estilos de los productos */
 .producto {
