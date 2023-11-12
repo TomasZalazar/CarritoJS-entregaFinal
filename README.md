@@ -1,6 +1,7 @@
-# 🍎 Applex - Tienda de Productos Apple 🍎
+# 🛒🍎 Applex - Tienda de Productos Apple 🍎🛒
 
-¡Hola! Soy Tomas Zalazar, un apasionado estudiante de Desarrollo Full Stack. Actualmente, me encuentro en la carrera de Developer Full Stack y he completado el curso de Desarrollo Web en CODERHOUSE, donde adquirí habilidades en desarrollo web. Mi viaje en CODERHOUSE comenzó hace 6 meses, y estoy emocionado por seguir creciendo en este campo, enfrentar desafíos y crear soluciones innovadoras.
+
+Hola, soy Tomas Zalazar, un entusiasta del desarrollo web. Estoy emocionado de presentarte mi proyecto CarritoJS, que forma parte de mi aprendizaje en Desarrollo Full Stack y es mi proyecto final para el curso de JavaScript.
 
 ## 🌐 Redes Sociales 🌐
 
@@ -12,25 +13,19 @@ Haz clic en las imágenes para visitar tus perfiles en cada red social.
 
 ## 👨🏽‍💻 Instalación 👨🏽‍💻
 
-Para comenzar a utilizar el proyecto Applex, sigue estos sencillos pasos:
-
-1. Clona este repositorio en tu computadora local ejecutando el siguiente comando en tu terminal: `git clone https://github.com/TuUsuarioGitHub/Applex.git`
-
-2. Luego, accede a la carpeta del proyecto recién clonado con el siguiente comando: `cd Applex`
-
-3. Ahora, instala todas las dependencias necesarias ejecutando el siguiente comando en tu terminal: `npm install`
-
+1. Clona este repositorio: `git clone https://github.com/TomasZalazar/CarritoJS-entregaFinal.git`
+2. Accede a la carpeta del proyecto: `cd CarritoJS-entregaFinal`
+3. Instala las dependencias: `npm install`
 ## ⚙️ Tecnologías Utilizadas ⚙️
 
-Hemos creado nuestra tienda en línea utilizando las siguientes tecnologías:
+Hemos creado este proyecto utilizando las siguientes tecnologías:
 
 | 💻👨🏽‍💻 Herramientas utilizadas para este proyecto |                                                               |
 | -------------------------------------------------- | ------------------------------------------------------------- |
 | HTML                                               | <img src="https://i.postimg.cc/pXmvSVry/HTML5-logo-and-wordmark-svg.png" width="70" align="center" valign="middle" style="margin-left: -9px;">         |
 | CSS                                                | <img src="https://i.postimg.cc/2y6Yrrxc/CSS3-logo-and-wordmark-svg.png" width="50" align="center" valign="middle">           |
-| JavaScript                                         | <img src="https://i.postimg.cc/65gGKhfC/JavaScript-logo-svg.png" width="70" valign="middle">       |
-| Tostify                                            | [Link a la Documentación](https://github.com/CodeSeven/toastr) |
-| SweetAlert                                         | [Link a la Documentación](https://sweetalert.js.org/)          |
+| JavaScript                                         | <img src="https://i.postimg.cc/9fWf3hM3/JavaScript-logo-svg.png" width="70" valign="middle">       |
+
 
 ## 💡 Funcionalidades 💡
 
@@ -40,19 +35,13 @@ Hemos creado nuestra tienda en línea utilizando las siguientes tecnologías:
 
 ## 🌐 Enlaces Importantes 🌐
 
-- [Sitio en Vivo (Netlify)](https://applex-tienda.netlify.app/)
-- [Repositorio en GitHub](https://github.com/TuUsuarioGitHub/Applex)
+- [Repositorio en GitHub](https://github.com/TomasZalazar/CarritoJS-entregaFinal.git)
+- [Sitio en Vivo (GitHub Pages)](https://tomaszalazar.github.io/CarritoJS-entregaFinal/)
 
 ## 👨‍💻 Acerca de Mí 👨‍💻
 
-Me llamo Tomas Zalazar, tengo 25 años y comencé mi viaje en el desarrollo web hace 6 meses. Este proyecto es el resultado de mi dedicación y aprendizaje en CODERHOUSE, donde he adquirido habilidades en HTML, CSS y JavaScript.
+¡Hola! Soy Tomas Zalazar, un entusiasta del desarrollo web. Actualmente, tengo conocimientos en HTML, CSS y JavaScript, y estoy ansioso por explorar el mundo del backend en el futuro. Mi viaje en el desarrollo web comenzó hace 6 meses, y estoy emocionado por seguir aprendiendo y enfrentar nuevos desafíos.
 
-## 💼 Futuro en el Desarrollo 💼
-
-Mi experiencia en CODERHOUSE ha sido fundamental para mi crecimiento en el campo del desarrollo web. Estoy agradecido por la oportunidad de aprender y aplicar mis conocimientos en proyectos como Applex. En el futuro, mi objetivo es seguir trabajando en este emocionante campo, enfrentar nuevos desafíos y contribuir a la creación de soluciones innovadoras.
-
-## 🙏 Agradecimientos 🙏
-
-Quiero expresar mi agradecimiento a CODERHOUSE por proporcionarme una base sólida en desarrollo web. Esta experiencia ha sido invaluable y me ha permitido crear proyectos como Applex. Estoy emocionado por lo que depara el futuro y ansioso por continuar aprendiendo y creciendo en esta apasionante industria.
+¡Gracias por visitar el proyecto CarritoJS! 👋
 
 
